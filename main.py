@@ -8,11 +8,11 @@ lists to US roofing firms, paid in USDC. No network, deterministic.
 import os
 
 ENTRY = (
-    "Day 1: spend $30 on Apify+Hunter credits, scrape 3,000 US roofing "
-    "firms from Google Maps, verify emails. Days 2-30: email 150/day, "
-    "give 25 free leads, sell 500 verified leads for $99 in USDC. "
-    "Expect ~15 sales = $1,485. Edge: verified niche data, paid in "
-    "USDC, no KYC or meetings."
+    "Day 1: spend $30 on Apify+Hunter, scrape 3,000 US roofing "
+    "firms, verify emails. Days 2-7: email 150/day, give 25 free "
+    "leads, land first $99 sale. Days 8-30: sell 500 leads for $99 "
+    "in USDC. Expect ~15 sales = $1,485. Edge: verified niche data, "
+    "paid in USDC, no KYC/meetings."
 )
 
 
